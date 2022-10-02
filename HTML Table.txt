@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>registration form</title>
+</head>
+<body>
+<input type="radio" name="gender" value="mr">
+<lable>mr</lable>
+<input type="radio" name="gender" value="mr">
+<lable>mrs</lable>
+<input type="radio" name="gender" value="mr">
+<lable>ms</lable><br>
+first name:<input type="text" name="name" placeholder="first name">
+<br>
+last name:<input type="text" name="name" placeholder="last name">
+<br>
+user name:<input type="text" name="name" placeholder="user name">
+<br>
+password:<input type="password" name="name" placeholder="password">
+<br>
+adress:<textarea name="address"></textarea>
+city:<input type="text" >
+<br>
+email:<input type="email"><br>
+cell:<input type="number">
+languages known:<input type="checkbox" >telugu
+<input type="checkbox">english
+<input type="checkbox">malayalam
+state:<select>
+<option>telangana</option>
+<option>andhra</option>
+</select>
+additional info:<textarea></textarea>
+<br>
+<input class="tacbox" type="checkbox">i accept the terms and conditions><br>
+submit:<input type="submit">
+reset":<input type="reset">
+</body></html>
